@@ -9,7 +9,7 @@ This project is a Flask-based API that processes news data and uploads it to Fir
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:gokulpulikkal/NewsLetters-Summarizer-backend.git
     cd <repository-directory>
     ```
 
